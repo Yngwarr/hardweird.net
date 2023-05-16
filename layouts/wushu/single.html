@@ -19,6 +19,16 @@
     <b>Next up:</b>
     {{ with .Site.GetPage .Params.next_ex }}
     <a href="{{ .Permalink }}">{{ .Title }}</a>
+
+    <script>
+        document.addEventListener('keydown', function(event) {
+            if (event.code !== 'Space') return;
+            if (!event.ctrlKey) return;
+            if (event.repeat) return;
+
+            window.location = "{{ .Permalink }}";
+        });
+    </script>
     {{ end }}
 
     {{ end }}
