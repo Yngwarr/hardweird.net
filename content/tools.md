@@ -26,6 +26,7 @@ All the gamedev-related links I stumbled upon and found pretty cool.
 * [MagicaVoxel](https://ephtracy.github.io/).
 * Imagemagick [scripts](http://www.fmwconcepts.com/imagemagick/polarblur/index.php).
 * [Palette generator](http://colormind.io/).
+* [Realtime colors](https://realtimecolors.com) for palette testing.
 * [JSPaint](https://jspaint.app/). They say paint is the best tool for pixel art. :)
 * [Explosion Generator](https://explosiongenerator.com/).
 
