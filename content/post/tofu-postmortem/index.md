@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "Ludum Dare 53 post-mortem (Early Morning Tofu Delivery)"
-date: 2023-05-31
+date: 2023-06-01
 category: postmortem
 ---
 
