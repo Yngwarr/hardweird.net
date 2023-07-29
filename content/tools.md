@@ -6,10 +6,6 @@ draft: false
 
 All the gamedev-related links I stumbled upon and found pretty cool.
 
-## Ideas
-
-* When struggle, try to read some really old games' descriptions. E. g. [Tau Ceti](https://en.wikipedia.org/wiki/Tau_Ceti_(video_game)).
-
 ## Planning
 
 * [Codecks](https://www.codecks.io/) -- cool for game developers.
@@ -86,6 +82,7 @@ All the gamedev-related links I stumbled upon and found pretty cool.
 
 * [JSON visualizer](http://jsonviewer.stack.hu/).
 * Extreme [JavaScript minifier](https://siorki.github.io/regPack.html).
+* Regex testing tool: [regexr](https://regexr.com/).
 
 ## Marketing
 
