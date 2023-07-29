@@ -83,6 +83,7 @@ All the gamedev-related links I stumbled upon and found pretty cool.
 * [JSON visualizer](http://jsonviewer.stack.hu/).
 * Extreme [JavaScript minifier](https://siorki.github.io/regPack.html).
 * Regex testing tool: [regexr](https://regexr.com/).
+* JavaScript GUI library for tinkering with parameters: [dat.gui](https://github.com/dataarts/dat.gui/).
 
 ## Marketing
 
