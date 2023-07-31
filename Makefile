@@ -3,4 +3,4 @@ all:
 serve:
 	hugo server
 drafts:
-	hugo server --buildDrafts
+	hugo server --buildDrafts --buildFuture
