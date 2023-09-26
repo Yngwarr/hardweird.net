@@ -51,6 +51,7 @@ All the gamedev-related links I stumbled upon and found pretty cool.
 * [FamiStudio](https://famistudio.org/) is an attempt to make FamiTracker more accessable.
 * Online music tracker: [BassoonTracker](https://www.stef.be/bassoontracker/).
 * Sfx generator: [sfxia](https://rxi.itch.io/sfxia).
+* Online synth: [Uhhyou](https://ryukau.github.io/UhhyouWebSynthesizers/index.html).
 
 ## Game Design
 
