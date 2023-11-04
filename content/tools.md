@@ -86,6 +86,7 @@ All the gamedev-related links I stumbled upon and found pretty cool.
 * Regex testing tool: [regexr](https://regexr.com/).
 * JavaScript GUI library for tinkering with parameters: [dat.gui](https://github.com/dataarts/dat.gui/).
 * Very in-depth [book](https://www.interdb.jp/pg/) about PostgreSQL.
+* [D3 Graph Gallery](https://d3-graph-gallery.com/index.html).
 
 ## Marketing
 

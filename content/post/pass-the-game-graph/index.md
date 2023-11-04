@@ -84,6 +84,30 @@ Graph also have shown some surprising insights:
 
 ## How does the graph work?
 
+And now for the interesting part: the backstage! First of all, I knew there
+should be some way to get everything I need from itch.io without much hassle.
+So, the first thing I tried was go to the jam's [entry page] and add `.json` to
+its url. If it sounds a bit arbitrary to you, well, it is, but I knew you can do
+it with reddit so why not to try it here. Surprisingly, it kinda worked!
+
+[entry page]: https://itch.io/jam/day-6/entries
+
+```json
+{"errors":["jam_id: expected integer"]}
+```
+
+Now when we know there is the API we're looking for, time to unwrap the
+browser's devtools. Open the _Network_ tab, filter XHR requests and reload the
+page. That's how I found out the url I needed was `https://itch.io/jam/380912/entries.json`.
+What surprised me that there is no pagination implemented on the itch.io's side.
+It shouldn't be the issue for the such small jams, but what about the larger
+ones, like [GMTK] nearly 7000 entries?
+
+[gmtk]: https://itch.io/jam/gmtk-2023/entries
+
+Anyway, after figuring out the API, we have all the submissions on our hands.
+Next we proceed to scrape every
+
 <!-- That's how I made the view: -->
 <!-- - Added .json to an entry page url to realize there's actually an api I'm -->
 <!--     looking for. -->
