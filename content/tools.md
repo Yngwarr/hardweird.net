@@ -56,7 +56,8 @@ All the gamedev-related links I stumbled upon and found pretty cool.
 
 ## Game Design
 
-*  Deepnight's [great tutorials](https://deepnight.net/tutorials/) about tile-based games.
+* Deepnight's [great tutorials](https://deepnight.net/tutorials/) about tile-based games.
+* [How to come up with ideas for small games](https://abagames.github.io/joys-of-small-game-development-en/ideas/).
 
 ## Physics
 
